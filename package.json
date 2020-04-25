@@ -1,13 +1,14 @@
 {
-  "name": "grunt-selenium-standalone",
+  "name": "@prantlf/grunt-selenium-standalone",
   "description": "Grunt tasks for running a standalone Selenium server using the popular selenium-standalone package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
-  "author": {
-    "name": "zs-zs",
-    "email": "zsolt.zsigmondi@hotmail.com"
-  },
-  "maintainers": [
+  "author": "Ferdinand Prantl <prantlf@gmail.com> (http://prantl.tk)",
+  "contributors": [
+    {
+      "name": "zs-zs",
+      "email": "zsolt.zsigmondi@hotmail.com"
+    },
     {
       "name": "James M. Greene",
       "email": "james.m.greene@gmail.com",
@@ -16,12 +17,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zs-zs/grunt-selenium-standalone"
+    "url": "https://github.com/prantlf/grunt-selenium-standalone"
   },
   "bugs": {
-    "url": "https://github.com/zs-zs/grunt-selenium-standalone/issues"
+    "url": "https://github.com/prantlf/grunt-selenium-standalone/issues"
   },
-  "homepage": "https://github.com/zs-zs/grunt-selenium-standalone",
+  "homepage": "https://github.com/prantlf/grunt-selenium-standalone",
+  "files": [
+    "tasks"
+  ],
   "keywords": [
     "gruntplugin",
     "selenium",

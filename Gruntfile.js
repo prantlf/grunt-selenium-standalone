@@ -1,11 +1,3 @@
-/*
- * grunt-selenium-standalone
- * https://github.com/zs-zs/grunt-selenium-standalone
- *
- * Copyright (c) 2015-2016 zs-zs
- * Licensed under the MIT license.
- */
-
 'use strict';
 
 var automatedBrowsers = require('./test/automatedBrowsers.json');
